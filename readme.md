@@ -27,7 +27,7 @@ A FastAPI-based microservice for scraping attachments from Gmail accounts. This 
 1. **Clone the repository**
    ```sh
    git clone "https://github.com/code-hamster-rohit/GMAIL_ATTACHMENT_SCRAPPER.git"
-   cd EMAIL_SCRAPPER
+   cd GMAIL_ATTACHMENT_SCRAPPER
    ```
 2. **Install dependencies**
    ```sh
