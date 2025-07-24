@@ -99,6 +99,9 @@ A FastAPI-based microservice for scraping attachments from Gmail accounts. This 
 - **Frontend integration:**
   - CORS is enabled for all origins by default. Adjust in `main.py` as needed.
 
+The current version of the service doesn't support multiusers. It is highly appreciated if someone is interested in help making it more generalize.
+For a user attempting such changes, they should make changes in `models/model.py` and `routes/scrapper_route.py`, as required.
+
 ---
 
 ## File Structure
